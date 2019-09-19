@@ -50,7 +50,7 @@ vmtksurfacewriter converts from VTP to external formats.
 # view image
 vmtk vmtkimagereader -ifile path/to/file.dcm --pipe vmtkimageviewer
 ```
-![image-dcm](images/dcm-view.png)
+![image-dcm](screenshots/dcm-view.png)
 
 2. Conversion steps from dcm to stl
 
@@ -71,13 +71,13 @@ vmtk vmtkmarchingcubes -ifile test.vti -l 300.0 -ofile test_surface.vtp --pipe v
 ```
 
 Here is what you will see if converted to vtp in the surface viewer.
-![image-converted-vtp](images/vtp-view.png)
+![image-converted-vtp](screenshots/vtp-view.png)
 
 ```bash 
 Convert vtp to stl
 vmtk vmtksurfacereader -ifile mc_surface.vtp --pipe vmtksurfacewriter -ofile mc_surface.stl
 ```
-![image converted stl](images/mc_stl.png)
+![image converted stl](screenshots/mc_stl.png)
 
 ## 4. Resources
 https://pseudoprofound.wordpress.com/2016/05/17/using-vmtk-for-analyzing-pipe-like-structures/   

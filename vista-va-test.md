@@ -1,5 +1,8 @@
 # VA VistAImaging Test
 
+Live view of STL in browser here (zoom in to see stl):  
+https://glitch.com/~breezy-casquette 
+
 ## Study 1: Dental Image 
 
 ### Finished images and 3d objects for NN_190528_114613_90E6F.DCM

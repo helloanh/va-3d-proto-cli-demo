@@ -1,0 +1,68 @@
+      SUMMARY OF THE HDF5 CONFIGURATION
+      =================================
+
+General Information:
+-------------------
+                   HDF5 Version: 1.8.13
+                  Configured on: 
+                  Configured by: Ninja
+                 Configure mode: CMAKE 3.9.4
+                    Host system: Darwin-17.4.0
+              Uname information: Darwin
+                       Byte sex: little-endian
+                      Libraries: 
+             Installation point: /anaconda3/envs/teststl
+
+Compiling Options:
+------------------
+               Compilation Mode: Release
+                     C Compiler: /Users/rick/anaconda3/conda-bld/vtk_1521598867457/_build_env/bin/x86_64-apple-darwin13.4.0-clang
+                         CFLAGS: -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -I/anaconda3/envs/teststl/include -fdebug-prefix-map=${SRC_DIR}=/usr/local/src/conda/${PKG_NAME}-${PKG_VERSION} -fdebug-prefix-map=${PREFIX}=/usr/local/src/conda-prefix  -w -w -w
+                      H5_CFLAGS: 
+                      AM_CFLAGS: 
+                       CPPFLAGS: -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -stdlib=libc++ -fvisibility-inlines-hidden -std=c++14 -fmessage-length=0 -I/anaconda3/envs/teststl/include -fdebug-prefix-map=${SRC_DIR}=/usr/local/src/conda/${PKG_NAME}-${PKG_VERSION} -fdebug-prefix-map=${PREFIX}=/usr/local/src/conda-prefix  -w -w -w
+                    H5_CPPFLAGS: 
+                    AM_CPPFLAGS: 
+               Shared Libraries: YES
+               Static Libraries: NO
+  Statically Linked Executables: OFF
+                        LDFLAGS: -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs -Wl,-rpath,/anaconda3/envs/teststl/lib -L/anaconda3/envs/teststl/lib 
+                     AM_LDFLAGS: 
+                Extra libraries: m;dl;vtkzlib
+                       Archiver: /usr/bin/ar
+                         Ranlib: /usr/bin/ranlib
+              Debugged Packages: 
+                    API Tracing: OFF
+
+Languages:
+----------
+                        Fortran: 
+               Fortran Compiler: 
+          Fortran 2003 Compiler: 
+                  Fortran Flags: 
+               H5 Fortran Flags: 
+               AM Fortran Flags: 
+                            C++: OFF
+                   C++ Compiler: /Users/rick/anaconda3/conda-bld/vtk_1521598867457/_build_env/bin/x86_64-apple-darwin13.4.0-clang++
+                      C++ Flags: -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe -stdlib=libc++ -fvisibility-inlines-hidden -std=c++14 -fmessage-length=0 -I/anaconda3/envs/teststl/include -fdebug-prefix-map=${SRC_DIR}=/usr/local/src/conda/${PKG_NAME}-${PKG_VERSION} -fdebug-prefix-map=${PREFIX}=/usr/local/src/conda-prefix  -w -w -w
+                   H5 C++ Flags: 
+                   AM C++ Flags: 
+
+Features:
+---------
+                  Parallel HDF5: OFF
+             High Level library: ON
+                   Threadsafety: OFF
+            Default API Mapping: v18
+ With Deprecated Public Symbols: ON
+         I/O filters (external):  DEFLATE
+         I/O filters (internal):  SHUFFLE FLETCHER32 NBIT SCALEOFFSET
+                            MPE: 
+                     Direct VFD: 
+                        dmalloc: 
+Clear file buffers before write: ON
+           Using memory checker: OFF
+         Function Stack Tracing: OFF
+      Strict File Format Checks: OFF
+   Optimization Instrumentation: OFF
+       Large File Support (LFS): ON

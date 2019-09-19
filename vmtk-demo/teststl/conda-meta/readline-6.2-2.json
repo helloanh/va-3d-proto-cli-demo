@@ -1,0 +1,135 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/free/osx-64",
+  "constrains": [],
+  "date": "2014-01-03",
+  "depends": [],
+  "extracted_package_dir": "/anaconda3/pkgs/readline-6.2-2",
+  "features": "",
+  "files": [
+    "include/readline/chardefs.h",
+    "include/readline/history.h",
+    "include/readline/keymaps.h",
+    "include/readline/readline.h",
+    "include/readline/rlconf.h",
+    "include/readline/rlstdc.h",
+    "include/readline/rltypedefs.h",
+    "include/readline/tilde.h",
+    "lib/libhistory.6.2.dylib",
+    "lib/libhistory.6.dylib",
+    "lib/libhistory.a",
+    "lib/libhistory.dylib",
+    "lib/libreadline.6.2.dylib",
+    "lib/libreadline.6.dylib",
+    "lib/libreadline.a",
+    "lib/libreadline.dylib",
+    "share/info/dir",
+    "share/info/history.info",
+    "share/info/readline.info",
+    "share/info/rluserman.info"
+  ],
+  "fn": "readline-6.2-2.tar.bz2",
+  "license": "GPL3",
+  "license_family": "GPL3",
+  "link": {
+    "source": "/anaconda3/pkgs/readline-6.2-2",
+    "type": 1
+  },
+  "md5": "0801e644bd0c1cd7f0923b56c52eb7f7",
+  "name": "readline",
+  "package_tarball_full_path": "/anaconda3/pkgs/readline-6.2-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/readline/chardefs.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/history.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/keymaps.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/readline.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/rlconf.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/rlstdc.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/rltypedefs.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "include/readline/tilde.h",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/libhistory.6.2.dylib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/libhistory.6.dylib",
+        "path_type": "softlink"
+      },
+      {
+        "_path": "lib/libhistory.a",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/libhistory.dylib",
+        "path_type": "softlink"
+      },
+      {
+        "_path": "lib/libreadline.6.2.dylib",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/libreadline.6.dylib",
+        "path_type": "softlink"
+      },
+      {
+        "_path": "lib/libreadline.a",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "lib/libreadline.dylib",
+        "path_type": "softlink"
+      },
+      {
+        "_path": "share/info/dir",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/info/history.info",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/info/readline.info",
+        "path_type": "hardlink"
+      },
+      {
+        "_path": "share/info/rluserman.info",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "darwin",
+  "requested_spec": "None",
+  "size": 281004,
+  "subdir": "osx-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/free/osx-64/readline-6.2-2.tar.bz2",
+  "version": "6.2"
+}

@@ -1,6 +1,8 @@
-# Dental Dicom 
+# VA VistAImaging Test
 
-## Finished images and 3d objects for NN_190528_114613_90E6F.DCM
+## 1. Study 1: Dental Image 
+
+### Finished images and 3d objects for NN_190528_114613_90E6F.DCM
 
 The converted dental.vtp and dental.stl can be accessed in the following links: 
 

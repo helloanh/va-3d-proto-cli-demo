@@ -1,6 +1,6 @@
 # VA VistAImaging Test
 
-## 1. Study 1: Dental Image 
+## Study 1: Dental Image 
 
 ### Finished images and 3d objects for NN_190528_114613_90E6F.DCM
 
